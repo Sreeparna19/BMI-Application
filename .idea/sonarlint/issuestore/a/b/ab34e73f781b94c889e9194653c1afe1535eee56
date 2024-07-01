@@ -1,0 +1,9 @@
+
+i
+java:S1604$"(Make this anonymous inner class a lambda(«–ÂæşÿÿÿÿJ$640f5450-c46c-412e-8fd2-f2e33709bfa0
+–
+java:S1450"ZRemove the "loginButton" field and declare it as a local variable in the relevant methods.(à…÷ŸJ$3c090f55-94e9-4cd0-a420-1e1914064ce3
+’
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ8şğóµƒ2J$040259a0-870a-441f-aef0-aa1cacff190b
+}
+java:S1874"5Remove this use of "onBackPressed"; it is deprecated.(‘Ñàÿÿÿÿÿ8ÿğóµƒ2J$e4eefa85-470c-4225-92fa-1eb02dddbb7b

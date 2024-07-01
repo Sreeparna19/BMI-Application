@@ -1,0 +1,25 @@
+
+p
+java:S1604F"(Make this anonymous inner class a lambda(ŒÎãøÿÿÿÿ8ğø¼µƒ2J$fe69ccb8-65cd-4750-b6b5-e907dd0db767
+p
+java:S1604R"(Make this anonymous inner class a lambda(–©–Œùÿÿÿÿ8ñø¼µƒ2J$f61c519a-292e-45b1-8331-5d58ae0bc27a
+d
+java:S1700""Rename field "weightRecords"(…³¢Ûıÿÿÿÿ8÷®¼µƒ2J$2e4c629b-4ffe-4f95-a8eb-dfb578ae48ac
+Œ
+java:S1192+"IDefine a constant instead of duplicating this literal "USERNAME" 3 times.(Ç×8õø¼µƒ2J$1bc2736b-7823-4bb9-83dd-51ad78a61612
+¥
+java:S1450!"]Remove the "weightListView" field and declare it as a local variable in the relevant methods.(â‡À¿ùÿÿÿÿ8ˆ¯¼µƒ2J$96438e87-fe2b-4187-be6d-0b70add0711c
+¤
+java:S1450""\Remove the "weightRecords" field and declare it as a local variable in the relevant methods.(…³¢Ûıÿÿÿÿ8ˆ¯¼µƒ2J$d701cf04-d128-4d38-9678-e66c219b6625
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÈÀøÿÿÿÿ8¯¼µƒ2J$3adb5d90-b69c-4c1f-b27f-5c62b4dedaee
+ƒ	java:S125$"<This block of commented-out lines of code should be removed.(æì§µşÿÿÿÿ8¯¼µƒ2J$6e84947b-b526-415f-b4d0-7f05d4e71130
+ƒ	java:S125>"<This block of commented-out lines of code should be removed.(‹šÉªúÿÿÿÿ8©¯¼µƒ2J$94070565-84fc-44de-997d-5ef523db8856
+‰
+java:S1117_"ARename "weightRecords" which hides the field declared at line 34.(œ„¹Öÿÿÿÿÿ8ª¯¼µƒ2J$10764b81-39d1-48ca-b7c5-152e367b69c1
+ƒ	java:S125u"<This block of commented-out lines of code should be removed.(œ›Â®ùÿÿÿÿ8­¯¼µƒ2J$6c71c9a3-590d-420b-82c0-61549922a7c2
+f
+java:S1128"Remove this duplicated import.(°şÊóøÿÿÿÿ8­¯¼µƒ2J$d74ab949-2edb-4660-8ece-044bf9f41018
+a
+java:S1128"Remove this duplicated import.(€¶£î8®¯¼µƒ2J$687d5cb1-2534-4b3b-ad1e-9b80d2cbd217
+a
+java:S1128"Remove this duplicated import.(€¶£î8¯¯¼µƒ2J$774135ba-1380-4a2f-b1d9-1a961bd0f44c

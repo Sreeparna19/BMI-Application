@@ -1,0 +1,14 @@
+
+p
+java:S1604<"(Make this anonymous inner class a lambda(ŒÎãøÿÿÿÿ8™‹ëŒƒ2J$4929d341-e073-4efd-be4c-7a4d51e186e1
+p
+java:S1604H"(Make this anonymous inner class a lambda(–©–Œùÿÿÿÿ8£µîŒƒ2J$1c3a4ef0-4867-4d7a-aede-a743d0807c5c
+Œ
+java:S1192"IDefine a constant instead of duplicating this literal "USERNAME" 3 times.(Ç×8¦µîŒƒ2J$aad01b87-d782-4535-a678-44abd828b386
+Ÿ
+java:S1450"WRemove the "dbHelper" field and declare it as a local variable in the relevant methods.(´ÈÅÿÿÿÿÿ8ìÏ»‡ƒ2J$5da0f212-16b1-4d83-a9ed-ed5343e79700
+¥
+java:S1450"]Remove the "heightTextView" field and declare it as a local variable in the relevant methods.(ú¬£ıÿÿÿÿ8ìÏ»‡ƒ2J$9600ae28-0397-4377-bfa7-1187b76b7b8d
+¥
+java:S1450"]Remove the "weightTextView" field and declare it as a local variable in the relevant methods.(çãšÿÿÿÿÿ8íÏ»‡ƒ2J$5bf30373-fd06-4068-b1bf-c88d83421c97
+ƒ	java:S125-"<This block of commented-out lines of code should be removed.(¦äÍıÿÿÿÿ8ùÏ»‡ƒ2J$c9907b3c-c71a-42fd-80b8-d3969a0062b5
